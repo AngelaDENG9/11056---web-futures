@@ -1,7 +1,7 @@
 # 11056---web-futures
 # Project Reflection Report for Design Undergraduates
 
-# Theme Selection and Application of Artificial Intelligence
+## Theme Selection and Application of Artificial Intelligence
 As a design student, I chose "Iceland" as the theme for my website design project due to its natural beauty and unique culture, which are visually appealing and ideal for showcasing my design skills. For this project, I utilized generative AI tools such as ChatGPT to assist with content generation. This not only saved time but also allowed me to focus more on the design itself. The AI-generated text content provided rich and accurate information for the website, making the entire design process more efficient.
 
 # Using Front-End Technology to Achieve Design Goals
