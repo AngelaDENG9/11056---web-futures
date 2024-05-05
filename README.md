@@ -21,4 +21,6 @@ Facts about Iceland | Travel Guide. (n.d.). Iceland Tours. https://www.icelandto
 Fox, A. (2023, November 17). Iceland's Blue Lagoon Extends Closure Due to 'Significant' Likelihood of Volcanic Eruption. Travel + Leisure. https://www.travelandleisure.com/iceland-blue-lagoon-closed-november-seismic-activity-8403986
 Fox, A. (2023, December 18). Iceland's Blue Lagoon Has Reopened to Tourists Following Closure Due to Volcanic Activity. Travel + Leisure. https://www.travelandleisure.com/iceland-blue-lagoon-has-reopened-8417300
 Iceland Glacier & Volcano Tours. (n.d.). National Geographic. https://www.nationalgeographic.com/expeditions/destinations/europe/land/iceland-volcanoes-glaciers-tour/
-Jacobsen, S. (2024, January 14). Volcano erupts near fishing town in southwest Iceland. The Canberra Times. 
+Jacobsen, S. (2024, January 14). Volcano erupts near fishing town in southwest Iceland. The Canberra Times. https://www.canberratimes.com.au/story/8485939/volcano-erupts-near-fishing-town-in-southwest-iceland/
+May, K. (2017, November 8). The North Awakens: The Beautiful Landscapes Of Iceland. Bored Panda. https://www.boredpanda.com/the-north-awakens-iceland/
+26 Things You Should Know Before Traveling to Iceland | Exodus. (n.d.). Exodus Travels. https://www.exodustravels.com/us/insights/26-things-you-should-know-traveling-iceland
