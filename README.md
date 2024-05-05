@@ -14,3 +14,11 @@ During the development process, I encountered several significant challenges. Th
 This project made me realize the importance of details in front-end design, such as loading speed and user interaction. In future projects, I plan to explore and apply advanced CSS and JavaScript features, such as animations and interactive effects, more thoroughly to enhance the user experience. Additionally, I recognize the importance of continuously learning new technologies, especially in the rapidly evolving field of web design. Furthermore, I will pay more attention to the accessibility and usability of the design to ensure that my website can serve all users.
 
 Overall, this project has not only enhanced my technical skills but also deepened my understanding of design theories and fueled my enthusiasm and anticipation for future design work. Through reflection and lessons learned, I am confident that I will perform even better in upcoming design projects.
+
+#### Reference
+https://fripito.com/news/the-most-beautiful-waterfalls-of-iceland/
+https://www.boredpanda.com/the-north-awakens-iceland/
+https://www.travelandleisure.com/iceland-blue-lagoon-closed-november-seismic-activity-8403986
+https://www.travelandleisure.com/iceland-blue-lagoon-has-reopened-8417300
+https://www.canberratimes.com.au/story/8485939/volcano-erupts-near-fishing-town-in-southwest-iceland/
+https://www.nationalgeographic.com/expeditions/destinations/europe/land/iceland-volcanoes-glaciers-tour/
