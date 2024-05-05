@@ -16,9 +16,9 @@ This project made me realize the importance of details in front-end design, such
 Overall, this project has not only enhanced my technical skills but also deepened my understanding of design theories and fueled my enthusiasm and anticipation for future design work. Through reflection and lessons learned, I am confident that I will perform even better in upcoming design projects.
 
 #### Reference
-https://fripito.com/news/the-most-beautiful-waterfalls-of-iceland/
-https://www.boredpanda.com/the-north-awakens-iceland/
-https://www.travelandleisure.com/iceland-blue-lagoon-closed-november-seismic-activity-8403986
-https://www.travelandleisure.com/iceland-blue-lagoon-has-reopened-8417300
-https://www.canberratimes.com.au/story/8485939/volcano-erupts-near-fishing-town-in-southwest-iceland/
-https://www.nationalgeographic.com/expeditions/destinations/europe/land/iceland-volcanoes-glaciers-tour/
+Brezina, J. (2015, August 19). The most beautiful waterfalls of Iceland. Fripito. https://fripito.com/news/the-most-beautiful-waterfalls-of-iceland/
+Facts about Iceland | Travel Guide. (n.d.). Iceland Tours. https://www.icelandtours.is/travel-guide/facts-about-iceland/
+Fox, A. (2023, November 17). Iceland's Blue Lagoon Extends Closure Due to 'Significant' Likelihood of Volcanic Eruption. Travel + Leisure. https://www.travelandleisure.com/iceland-blue-lagoon-closed-november-seismic-activity-8403986
+Fox, A. (2023, December 18). Iceland's Blue Lagoon Has Reopened to Tourists Following Closure Due to Volcanic Activity. Travel + Leisure. https://www.travelandleisure.com/iceland-blue-lagoon-has-reopened-8417300
+Iceland Glacier & Volcano Tours. (n.d.). National Geographic. https://www.nationalgeographic.com/expeditions/destinations/europe/land/iceland-volcanoes-glaciers-tour/
+Jacobsen, S. (2024, January 14). Volcano erupts near fishing town in southwest Iceland. The Canberra Times. 
